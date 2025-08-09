@@ -35,6 +35,10 @@ To circumvent this, the hardware generates markers on one channel, so the other 
 The format is not yet defined, however it'll likely use either FSK or DTMF for the data.
 There will be a sync mark at the beginning of the second, since this is when the timing error is lowest. It will be something with good correlation properties.
 
+A DTMF tone typically is recommended to be at least 50 ms long with a pause of 20 ms between two digits. This means that in a second we could have 14 digits. Leaving some room for the second marker and silence at the end, we could, for exmample, have 10 digits per second. One marker, 8 data digits and one parity or stop digit. The advantage is that DTMF has discrete tones so we can easily have a gap at the end of the signal.
+
+With FSK, we could, for example, have V.21 modulated bits. We'd probably have something like 256 data bits when we subtract run-in periods and the like. We probably need to re-sync it as part of the second mark.
+
 ## Software
 No software is written so far, however it would probably work like this:
 
