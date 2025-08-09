@@ -5360,6 +5360,16 @@
 		)
 		(uuid "090dac2d-f066-402a-b97b-9a6a6fb1b41a")
 	)
+	(polyline
+		(pts
+			(xy 107.95 55.88) (xy 107.95 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "096bbaf2-8c1a-4b59-b540-da17537cc00b")
+	)
 	(wire
 		(pts
 			(xy 74.93 22.86) (xy 76.2 22.86)
@@ -5570,6 +5580,16 @@
 		)
 		(uuid "1dad5665-5fd5-4791-9dc9-24665ec30790")
 	)
+	(polyline
+		(pts
+			(xy 158.75 11.43) (xy 158.75 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e74aa0a-7c40-42ac-9d37-b2a84cd9ce10")
+	)
 	(wire
 		(pts
 			(xy 115.57 168.91) (xy 115.57 170.18)
@@ -5630,6 +5650,16 @@
 		)
 		(uuid "20e965c7-4b47-4c63-b894-9c060a7307c2")
 	)
+	(polyline
+		(pts
+			(xy 11.43 34.29) (xy 107.95 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "226fcb59-2a01-4163-ae14-0d6b37672ed9")
+	)
 	(wire
 		(pts
 			(xy 115.57 180.34) (xy 115.57 179.07)
@@ -5639,6 +5669,16 @@
 			(type default)
 		)
 		(uuid "237b0eb4-48af-406a-b523-75cb4a6d4533")
+	)
+	(polyline
+		(pts
+			(xy 222.25 72.39) (xy 177.8 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27569e12-d96a-4f62-b0bd-1da6437f9bdc")
 	)
 	(wire
 		(pts
@@ -5929,6 +5969,16 @@
 			(type default)
 		)
 		(uuid "3eeacfc5-65be-4281-93d7-2f71c05e447c")
+	)
+	(polyline
+		(pts
+			(xy 177.8 72.39) (xy 177.8 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4066a9ae-d9ad-43ee-ab82-373c67a4d830")
 	)
 	(wire
 		(pts
@@ -6632,6 +6682,16 @@
 	)
 	(polyline
 		(pts
+			(xy 222.25 41.91) (xy 222.25 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81ab0424-12cb-4d58-b8b3-1c99952b9275")
+	)
+	(polyline
+		(pts
 			(xy 154.94 142.24) (xy 157.48 142.24)
 		)
 		(stroke
@@ -6920,6 +6980,16 @@
 		)
 		(uuid "97d83a2d-7e92-43a4-8612-5bf57a2a655d")
 	)
+	(polyline
+		(pts
+			(xy 284.48 41.91) (xy 222.25 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98c49a9c-2145-489f-bdfa-46fb7fe63832")
+	)
 	(wire
 		(pts
 			(xy 39.37 132.08) (xy 40.64 132.08)
@@ -6939,6 +7009,16 @@
 			(type default)
 		)
 		(uuid "99da3c74-069c-4a91-8432-34ae6c51a90d")
+	)
+	(polyline
+		(pts
+			(xy 107.95 90.17) (xy 158.75 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b01e5d4-37ba-4a18-ba5a-5f73ff80f5a3")
 	)
 	(wire
 		(pts
@@ -7049,6 +7129,16 @@
 			(type default)
 		)
 		(uuid "a40ddac8-5289-4685-bb8f-4a9fb5649ee8")
+	)
+	(polyline
+		(pts
+			(xy 107.95 57.15) (xy 107.95 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5470ae9-fdb5-4ac2-8977-77f2ef1d60b1")
 	)
 	(wire
 		(pts
@@ -7720,6 +7810,16 @@
 		)
 		(uuid "e8bf6b2b-b39b-44d2-ba88-cda5bd0324be")
 	)
+	(polyline
+		(pts
+			(xy 107.95 11.43) (xy 107.95 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f4cdde-c4df-43fb-930d-cfd3c38412bf")
+	)
 	(wire
 		(pts
 			(xy 265.43 139.7) (xy 242.57 139.7)
@@ -7779,6 +7879,16 @@
 			(type default)
 		)
 		(uuid "ee07873e-4541-4a8f-8edf-9430f456d893")
+	)
+	(polyline
+		(pts
+			(xy 11.43 57.15) (xy 107.95 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efc3793b-6ddd-448f-9377-e0766adeeaad")
 	)
 	(wire
 		(pts
@@ -7910,6 +8020,16 @@
 		)
 		(uuid "24c00f87-7dd8-4099-9415-5c602b08b6f2")
 	)
+	(text "Power supply"
+		(exclude_from_sim no)
+		(at 79.756 33.274 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2f21cc29-dec2-47bb-a43c-8ef8bc917053")
+	)
 	(text "https://github.com/Casandro/time-marker"
 		(exclude_from_sim no)
 		(at 208.28 189.738 0)
@@ -7919,6 +8039,16 @@
 			)
 		)
 		(uuid "3cb8cc6d-2473-410d-b869-fb07035678dc")
+	)
+	(text "Grid frequency"
+		(exclude_from_sim no)
+		(at 53.34 53.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3d15c60e-a07f-4c00-a8bc-ed6d39f1929a")
 	)
 	(text "Gehäuse: Industriegehäuse, 160 x 120 x 90 mm, IP66"
 		(exclude_from_sim no)
@@ -7950,6 +8080,26 @@
 		)
 		(uuid "59c45c62-846c-4042-b97d-bffd4fc71770")
 	)
+	(text "marker generator"
+		(exclude_from_sim no)
+		(at 88.138 159.512 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6cff8916-1f3b-4a22-aa81-7d2f0c5f5ec4")
+	)
+	(text "optional lights and switches"
+		(exclude_from_sim no)
+		(at 143.764 88.392 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6d699c03-0d7c-4af5-ac77-05adb47b52d5")
+	)
 	(text "Data to GNSS"
 		(exclude_from_sim no)
 		(at 160.528 145.796 0)
@@ -7959,6 +8109,16 @@
 			)
 		)
 		(uuid "84779169-0c71-42a5-bf00-7ccfc102051a")
+	)
+	(text "optional RS232 port"
+		(exclude_from_sim no)
+		(at 196.85 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "89ba3727-7669-4f74-9d36-af2620c48777")
 	)
 	(text "GNSS"
 		(exclude_from_sim no)
